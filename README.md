@@ -22,7 +22,7 @@ still available in the designer1 branch.
   * Install Bower and npm Dependencies:
 
         $ bower install
-        $ npm install
+        $ npm install electron -g --verbose
 
   * Build and run the desktop app in Electron
 
